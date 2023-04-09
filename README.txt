@@ -1,0 +1,1 @@
+To run the maze-solving program, navigate to the Asearch folder and run asearch.py using Python.
